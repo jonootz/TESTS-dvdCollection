@@ -1,0 +1,424 @@
+﻿/*<meta />*/
+
+/* Home Page General Styles*/
+
+body
+{
+	font-family: Arial;
+    line-height: 1.5em;
+}
+
+a.BlackText
+{
+	color: #000000;
+	text-decoration: none;
+}
+
+h1
+{
+    font-size: 2.75em;
+}
+
+h3
+{
+	font-size: 1.6785em;
+}
+
+h1,
+h3
+{
+	margin-bottom: 0;
+}
+
+p
+{
+	color: #5a5a5a;
+	margin-bottom: 8px;
+	margin-top: 8px;
+}
+
+.centered-text
+{
+	text-align: center;
+}
+
+.center
+{
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	float: none !important;
+	text-align: center;
+}
+
+.row .row
+{
+	width: 100%;
+}
+
+.whiteheader
+{
+	color: #ffffff;
+	font-weight: normal;
+}
+
+.responsive-search
+{
+	display: none;
+}
+
+/* Home Page Button Styles */
+
+button
+{
+	cursor: pointer;
+	background-color: transparent;
+	width: 200px;
+	height: 35px;
+	font-weight: bold;
+}
+
+button.black
+{
+	border-top: solid 2px black;
+	border-bottom: solid 2px black;
+	border-left: solid 2px black;
+	border-right: solid 2px black;
+	color: black;
+}
+
+button.white
+{
+	border-top: solid 2px white;
+	border-bottom: solid 2px white;
+	border-left: solid 2px white;
+	border-right: solid 2px white;
+	color: white;
+}
+
+/* Responsive Header Styles*/
+
+#contentBody > .responsive-header
+{
+	background-color: transparent;
+}
+
+/* Home Page Header section 3 */
+
+#header-section-3
+{
+	height: 350px;
+	background-image: url('../Images/background50.png');
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+
+#header-section-3 h1
+{
+	margin-bottom: 10px;
+}
+
+#header-section-3 h3
+{
+	margin-top: 0px;
+	font-weight: normal;
+}
+
+/* Home page section 4 */
+
+#header-section-4
+{
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+#header-section-4 h3
+{
+	padding-bottom: 20px;
+    font-weight: normal;
+}
+
+.left-section div.button-group
+{
+	margin-top: 30px;
+}
+
+.right-section div.button-group
+{
+	margin-top: 33px;
+}
+
+#header-section-4 .left-section
+{
+	border-right: solid 1px #CCCCCC;
+	padding-right: 20px;
+}
+
+#header-section-4 .right-section
+{
+	padding-left: 20px;
+}
+
+#header-section-4 .right-section .table-images:first-of-type
+{
+	margin-bottom: 20px;
+}
+
+#header-section-4 .table-images > div
+{
+	padding-right: 0;
+}
+
+#header-section-4.mc-blurb p
+{
+	margin-top: 0;
+	margin-bottom: 5px;
+}
+
+#header-section-4.mc-blurb .mc-bullets
+{
+	margin-top: 10px;
+	padding-left: 30px;
+	padding-right: 10px;
+	padding-bottom: 18px;
+}
+
+#header-section-4.mc-blurb .mc-bullets > li
+{
+	color: #5a5a5a;
+	list-style-image: url('../Images/Bullet1.png');
+	font-size: 14px;
+	margin-top: 8px;
+    line-height: 1.6em;
+}
+
+@media only screen and (max-width: 40em)
+{
+	#header-section-4 .right-section,
+	#header-section-4 .left-section
+	{
+		padding: 0;
+	}
+
+	.left-section div.button-group > div
+	{
+		margin-bottom: 20px;
+	}
+}
+
+/* Home Page Topic Hero section*/
+
+div.topichero
+{
+	background-image: url('../Images/background50.png');
+    background-size: 100%;
+    background-repeat:no-repeat;
+	padding-top: 20px;
+	height: 450px;
+	padding-bottom: 50px;
+}
+
+div.topichero h1.p
+{
+	margin-bottom: 2.25em;
+}
+
+div.topichero h3
+{
+	margin-bottom: 60px;
+}
+
+.search,
+.search-bar
+{
+	margin: 0 auto;
+}
+
+/* Home Page slide show */
+
+div.slidingshow
+{
+	margin-top: -79px;
+	margin-bottom: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 600px;
+}
+
+.mc-wrapper .mc-caption
+{
+	background: none;
+}
+
+/* Home Page Video Section */
+
+.video-section
+{
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+
+.video-section img
+{
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+.video-section div.row:first-of-type
+{
+	margin-bottom: 30px;
+}
+
+/* Home Page Footer */
+
+.footer
+{
+	background-color: #292928;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.footer a
+{
+	text-decoration: none;
+	color: #DADADA;
+}
+
+.footer p
+{
+	margin: 0;
+	color: #888888;
+    line-height: 1.6em;
+}
+
+.footer *
+{
+	padding-right: 10px;
+}
+
+.footer div.row > div:last-of-type
+{
+	padding-left: 10px;
+	text-align: right;
+}
+
+.footer div.row > div:first-of-type
+{
+	text-align: left;
+}
+
+@media only screen and (max-width: 40em)
+{
+	.footer *
+	{
+		padding-left: 0;
+	}
+
+	.footer a
+	{
+		float: left;
+	}
+
+	.footer > div:first-of-type a
+	{
+		display: block;
+		float: left;
+	}
+
+	.footer > div:last-of-type a,
+	.footer > div:last-of-type div
+	{
+		display: inline-block;
+	}
+}
+
+/* Mad Cap proxy/editor assigned styles */
+
+MadCap|searchBarProxy
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	float: none;
+	width: 50%;
+}
+
+MadCap|miniTocProxy.miniTocProxy
+{
+	mc-toc-depth: 0;
+	margin-left: 25px;
+	border-top-width: 0px;
+	color: #f5f5f5;
+}
+
+MadCap|topicToolbarProxy
+{
+	float: none;
+}
+
+MadCap|topicToolbarProxy.right
+{
+	float: none;
+	mc-topic-toolbar-items: Print ExpandAll CollapseAll RemoveHighlight Separator;
+}
+
+p.TOC2
+{
+	margin-left: 20px;
+	display: none;
+}
+
+MadCap|menuProxy.menu1
+{
+	mc-toc-depth: 1;
+	mc-context-sensitive: True;
+}
+
+MadCap|menuProxy.menu2
+{
+	mc-toc-depth: 1;
+	mc-context-sensitive: True;
+}
+
+MadCap|slideshow
+{
+	border-style: none;
+	box-shadow: none;
+}
+
+MadCap|slideshowCaption
+{
+	background: none;
+	color: #000000;
+	padding: 0px;
+}
+
+html.HomePage
+{
+	mc-master-page: url('../MasterPages/HomePage.flmsp');
+}
+
+MadCap|searchBarProxy.homeSearchBar
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	float: none;
+}
+
+@media screen and (max-width: 40em)
+{
+	MadCap|searchBarProxy.homeSearchBar
+	{
+		width: 100%;
+	}
+
+    div.slidingshow
+    {
+        width: 100%;
+    }
+}
