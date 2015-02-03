@@ -11,7 +11,7 @@
   MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp"
   ResultsPerPage="10"
   Skin="/Project/Skins/HTML5 - Top Navigation.flskn"
-  ConditionTagExpression="include[General.Advanced] exclude[General.Beginner] ">
+  ConditionTagExpression="include[General.Advanced]exclude[General.Beginner]">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"

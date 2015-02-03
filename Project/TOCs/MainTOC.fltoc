@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="StarWarsSagaCollectorsEdition"
+    Link="/Content/S_DVDs/StarWarsSagaCollectorsEdition.htm" />
+  <TocEntry
+    Title="Batman_TheAnimatedSeries">
+    <TocEntry
+      Title="Batman_TheAnimatedSeries_Vol1"
+      Link="/Content/B_Features/Batman_TheAnimatedSeries_Vol1.htm"></TocEntry>
+    <TocEntry
+      Title="Batman_TheAnimatedSeries_Vol3"
+      Link="/Content/B_Features/Batman_TheAnimatedSeries_Vol3.htm"></TocEntry>
+    <TocEntry
+      Title="Batman_TheAnimatedSeries_Vol2"
+      Link="/Content/B_Features/Batman_TheAnimatedSeries_Vol2.htm" />
+    <TocEntry
+      Title="Batman_TheAnimatedSeries_Vol4"
+      Link="/Content/B_Features/Batman_TheAnimatedSeries_Vol4.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="ET_CollectorsEdition"
+    Link="/Content/E_DVDs/ET_CollectorsEdition.htm" />
+  <TocEntry
+    Title="IndianaJones_TheCompleteAdventures"
+    Link="/Content/I_DVDs/IndianaJones_TheCompleteAdventures.htm">
+    <TocEntry
+      Title="IndianaJones_RaidersOfTheLostArk"
+      Link="/Content/I_DVDs/IndianaJones_RaidersOfTheLostArk.htm"></TocEntry>
+    <TocEntry
+      Title="IndianaJones_TempleOfDoom"
+      Link="/Content/I_DVDs/IndianaJones_TempleOfDoom.htm"></TocEntry>
+    <TocEntry
+      Title="IndianaJones_TheLastCrusade"
+      Link="/Content/I_DVDs/IndianaJones_TheLastCrusade.htm" />
+    <TocEntry
+      Title="IndianaJones_TheKingdomOfTheCrystalSkull"
+      Link="/Content/I_DVDs/IndianaJones_TheKingdomOfTheCrystalSkull.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="LordOfTheRings_ExtendedEditionSet"
+    Link="/Content/L_DVDs/LordOfTheRings_ExtendedEditionSet.htm">
+    <TocEntry
+      Title="FellowshipOfTheRing_ExtendedEdition"
+      Link="/Content/L_DVDs/FellowshipOfTheRing_ExtendedEdition.htm" />
+    <TocEntry
+      Title="TheTwoTowers_ExtendedEdition"
+      Link="/Content/L_DVDs/TheTwoTowers_ExtendedEdition.htm"></TocEntry>
+    <TocEntry
+      Title="ReturnOfTheKing_ExtendedEdition"
+      Link="/Content/L_DVDs/ReturnOfTheKing_ExtendedEdition.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Superman_TheAnimatedSeries">
+    <TocEntry
+      Title="Superman_TheAnimatedSeries_Vol1"
+      Link="/Content/S_DVDs/Superman_TheAnimatedSeries_Vol1.htm" />
+    <TocEntry
+      Title="Superman_TheAnimatedSeries_Vol2"
+      Link="/Content/S_DVDs/Superman_TheAnimatedSeries_Vol2.htm" />
+    <TocEntry
+      Title="Superman_TheAnimatedSeries_Vol3"
+      Link="/Content/S_DVDs/Superman_TheAnimatedSeries_Vol3.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="TheHobbit-AnUnexpectedJourney_ExtendedEdition"
+    Link="/Content/H_DVDs/TheHobbit-AnUnexpectedJourney_ExtendedEdition.htm" />
+  <TocEntry
+    Title="TheHobbit-TheDesolationOfSmaug_ExtendedEdition"
+    Link="/Content/H_DVDs/TheHobbit-TheDesolationOfSmaug_ExtendedEdition.htm" />
+</CatapultToc>
