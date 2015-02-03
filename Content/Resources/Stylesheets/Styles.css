@@ -1,4 +1,4 @@
-﻿/*<meta />*/
+/*<meta />*/
 
 body
 {
@@ -501,7 +501,7 @@ ul
 {
 	margin-left: 2.1em;
 	list-style-image: url('../Images/Bullet1.png');
-    padding: 0;
+	padding: 0;
 }
 
 ul.FirstLevelLessIndentation
@@ -529,3 +529,10 @@ ul.SecondLevel
 {
 	padding-top: 25px;
 }
+
+img.Fiftypercent
+{
+	width: 5in;
+	height: auto;
+}
+
