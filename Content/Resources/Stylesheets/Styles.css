@@ -536,3 +536,10 @@ img.Fiftypercent
 	height: auto;
 }
 
+img.DVDpage	/*500 px wide*/
+{
+	border: none;
+	width: 500px;
+	height: auto;
+}
+
