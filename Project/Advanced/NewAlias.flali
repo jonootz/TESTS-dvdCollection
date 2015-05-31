@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultAliasFile>
-    <Map Name="DVDNEW" Link="/Content/S_DVDs/Superman/Superman_TheAnimatedSeries_Vol3.htm" />
-    <Map Name="DVDNEW1" Link="/Content/S_DVDs/Superman/Superman_TheAnimatedSeries_Vol2.htm" />
-    <Map Name="DVDNEW2" Link="/Content/S_DVDs/Superman/Superman_TheAnimatedSeries_Vol1.htm" />
-    <Map Name="DVDNEW3" Link="/Content/S_DVDs/StarWars/StarWars_Ep6.htm" />
-    <Map Name="DVDNEW4" Link="/Content/S_DVDs/StarWars/StarWars_Ep5.htm" />
-    <Map Name="DVDNEW5" Link="/Content/S_DVDs/StarWars/StarWars_Ep4.htm" />
-    <Map Name="DVDNEW6" Link="/Content/S_DVDs/StarWars/StarWars_Ep3.htm" />
-    <Map Name="DVDNEW7" Link="/Content/S_DVDs/StarWars/StarWars_Ep2.htm" />
-    <Map Name="DVDNEW8" Link="/Content/S_DVDs/StarWars/StarWars_Ep1.htm" />
-    <Map Name="DVDNEW9" Link="/Content/S_DVDs/StarWars/StarWarsSagaCollectorsEdition.htm" />
-    <Map Name="DVDNEW10" Link="/Content/L_DVDs/TheTwoTowers_ExtendedEdition.htm" />
-    <Map Name="DVDNEW11" Link="/Content/L_DVDs/ReturnOfTheKing_ExtendedEdition.htm" />
-    <Map Name="DVDNEW12" Link="/Content/L_DVDs/LordOfTheRings_ExtendedEditionSet.htm" />
-    <Map Name="DVDNEW13" Link="/Content/L_DVDs/FellowshipOfTheRing_ExtendedEdition.htm" />
-    <Map Name="DVDNEW14" Link="/Content/I_DVDs/IndianaJones_TheLastCrusade.htm" />
-    <Map Name="DVDNEW15" Link="/Content/I_DVDs/IndianaJones_TheKingdomOfTheCrystalSkull.htm" />
-    <Map Name="DVDNEW16" Link="/Content/I_DVDs/IndianaJones_TheCompleteAdventures.htm" />
-    <Map Name="DVDNEW17" Link="/Content/I_DVDs/IndianaJones_TempleOfDoom.htm" />
-    <Map Name="DVDNEW18" Link="/Content/I_DVDs/IndianaJones_RaidersOfTheLostArk.htm" />
-    <Map Name="DVDNEW19" Link="/Content/H_DVDs/TheHobbit-TheDesolationOfSmaug_ExtendedEdition.htm" />
-    <Map Name="DVDNEW20" Link="/Content/H_DVDs/TheHobbit-AnUnexpectedJourney_ExtendedEdition.htm" />
-    <Map Name="DVDNEW21" Link="/Content/E_DVDs/ET_CollectorsEdition.htm" />
+    <Map Name="DVDNEW" Link="/Content/DVDs/S_DVDs/Superman/Superman_TheAnimatedSeries_Vol3.htm" />
+    <Map Name="DVDNEW1" Link="/Content/DVDs/S_DVDs/Superman/Superman_TheAnimatedSeries_Vol2.htm" />
+    <Map Name="DVDNEW2" Link="/Content/DVDs/S_DVDs/Superman/Superman_TheAnimatedSeries_Vol1.htm" />
+    <Map Name="DVDNEW3" Link="/Content/DVDs/S_DVDs/StarWars/StarWars_Ep6.htm" />
+    <Map Name="DVDNEW4" Link="/Content/DVDs/S_DVDs/StarWars/StarWars_Ep5.htm" />
+    <Map Name="DVDNEW5" Link="/Content/DVDs/S_DVDs/StarWars/StarWars_Ep4.htm" />
+    <Map Name="DVDNEW6" Link="/Content/DVDs/S_DVDs/StarWars/StarWars_Ep3.htm" />
+    <Map Name="DVDNEW7" Link="/Content/DVDs/S_DVDs/StarWars/StarWars_Ep2.htm" />
+    <Map Name="DVDNEW8" Link="/Content/DVDs/S_DVDs/StarWars/StarWars_Ep1.htm" />
+    <Map Name="DVDNEW9" Link="/Content/DVDs/S_DVDs/StarWars/StarWarsSagaCollectorsEdition.htm" />
+    <Map Name="DVDNEW10" Link="/Content/DVDs/L_DVDs/TheTwoTowers_ExtendedEdition.htm" />
+    <Map Name="DVDNEW11" Link="/Content/DVDs/L_DVDs/ReturnOfTheKing_ExtendedEdition.htm" />
+    <Map Name="DVDNEW12" Link="/Content/DVDs/L_DVDs/LordOfTheRings_ExtendedEditionSet.htm" />
+    <Map Name="DVDNEW13" Link="/Content/DVDs/L_DVDs/FellowshipOfTheRing_ExtendedEdition.htm" />
+    <Map Name="DVDNEW14" Link="/Content/DVDs/I_DVDs/IndianaJones_TheLastCrusade.htm" />
+    <Map Name="DVDNEW15" Link="/Content/DVDs/I_DVDs/IndianaJones_TheKingdomOfTheCrystalSkull.htm" />
+    <Map Name="DVDNEW16" Link="/Content/DVDs/I_DVDs/IndianaJones_TheCompleteAdventures.htm" />
+    <Map Name="DVDNEW17" Link="/Content/DVDs/I_DVDs/IndianaJones_TempleOfDoom.htm" />
+    <Map Name="DVDNEW18" Link="/Content/DVDs/I_DVDs/IndianaJones_RaidersOfTheLostArk.htm" />
+    <Map Name="DVDNEW19" Link="/Content/DVDs/H_DVDs/TheHobbit-TheDesolationOfSmaug_ExtendedEdition.htm" />
+    <Map Name="DVDNEW20" Link="/Content/DVDs/H_DVDs/TheHobbit-AnUnexpectedJourney_ExtendedEdition.htm" />
+    <Map Name="DVDNEW21" Link="/Content/DVDs/E_DVDs/E.T. - CollectorsEdition.htm" />
     <Map Name="DVDNEW22" Link="/Content/OldProjectContent/D_Other/TOC.htm" />
     <Map Name="DVDNEW23" Link="/Content/OldProjectContent/D_Other/Search Results.htm" />
     <Map Name="DVDNEW24" Link="/Content/OldProjectContent/C_More Information/PDF Downloads.htm" />
@@ -40,12 +40,12 @@
     <Map Name="DVDNEW37" Link="/Content/OldProjectContent/B_Features/Conditions Notes Tables/ConditionsNotesTables.htm" />
     <Map Name="DVDNEW38" Link="/Content/OldProjectContent/B_Features/Conditions Notes Tables/Conditions.htm" />
     <Map Name="DVDNEW39" Link="/Content/OldProjectContent/B_Features/Features.htm" />
-    <Map Name="DVDNEW40" Link="/Content/B_DVDs/Batman_TheAnimatedSeries_Vol4.htm" />
-    <Map Name="DVDNEW41" Link="/Content/B_DVDs/Batman_TheAnimatedSeries_Vol3.htm" />
-    <Map Name="DVDNEW42" Link="/Content/B_DVDs/Batman_TheAnimatedSeries_Vol2.htm" />
-    <Map Name="DVDNEW43" Link="/Content/B_DVDs/Batman_TheAnimatedSeries_Vol1.htm" />
+    <Map Name="DVDNEW40" Link="/Content/DVDs/B_DVDs/Batman_TheAnimatedSeries_Vol4.htm" />
+    <Map Name="DVDNEW41" Link="/Content/DVDs/B_DVDs/Batman_TheAnimatedSeries_Vol3.htm" />
+    <Map Name="DVDNEW42" Link="/Content/DVDs/B_DVDs/Batman_TheAnimatedSeries_Vol2.htm" />
+    <Map Name="DVDNEW43" Link="/Content/DVDs/B_DVDs/Batman_TheAnimatedSeries_Vol1.htm" />
     <Map Name="DVDNEW44" Link="/Content/OldProjectContent/A_Getting Started/Whats New.htm" />
     <Map Name="DVDNEW45" Link="/Content/OldProjectContent/A_Getting Started/Getting Started.htm" />
     <Map Name="DVDNEW46" Link="/Content/OldProjectContent/A_Getting Started/Basic Steps.htm" />
-    <Map Name="DVDNEW47" Link="/Content/Home.htm" />
+    <Map Name="DVDNEW47" Link="/Content/OldProjectContent/Home.htm" />
 </CatapultAliasFile>

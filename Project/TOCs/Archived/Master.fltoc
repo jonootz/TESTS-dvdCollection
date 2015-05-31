@@ -3,7 +3,7 @@
   Version="1">
   <TocEntry
     Title="Home"
-    Link="/Content/Home.htm" />
+    Link="/Content/OldProjectContent/Home.htm" />
   <TocEntry
     Title="Getting Started"
     Link="/Content/OldProjectContent/A_Getting Started/Getting Started.htm">
