@@ -22,30 +22,30 @@
     <Map Name="DVDNEW19" Link="/Content/H_DVDs/TheHobbit-TheDesolationOfSmaug_ExtendedEdition.htm" />
     <Map Name="DVDNEW20" Link="/Content/H_DVDs/TheHobbit-AnUnexpectedJourney_ExtendedEdition.htm" />
     <Map Name="DVDNEW21" Link="/Content/E_DVDs/ET_CollectorsEdition.htm" />
-    <Map Name="DVDNEW22" Link="/Content/D_Other/TOC.htm" />
-    <Map Name="DVDNEW23" Link="/Content/D_Other/Search Results.htm" />
-    <Map Name="DVDNEW24" Link="/Content/C_More Information/PDF Downloads.htm" />
-    <Map Name="DVDNEW25" Link="/Content/C_More Information/More Information.htm" />
-    <Map Name="DVDNEW26" Link="/Content/C_More Information/FAQs.htm" />
-    <Map Name="DVDNEW27" Link="/Content/C_More Information/Company Information.htm" />
-    <Map Name="DVDNEW28" Link="/Content/C_More Information/Best Practices.htm" />
-    <Map Name="DVDNEW29" Link="/Content/B_Features/Links and Lists/Lists.htm" />
-    <Map Name="DVDNEW30" Link="/Content/B_Features/Links and Lists/LinksAndLists.htm" />
-    <Map Name="DVDNEW31" Link="/Content/B_Features/Links and Lists/Links.htm" />
-    <Map Name="DVDNEW32" Link="/Content/B_Features/Images/ThumbnailImage.htm" />
-    <Map Name="DVDNEW33" Link="/Content/B_Features/Images/Images.htm" />
-    <Map Name="DVDNEW34" Link="/Content/B_Features/Images/ImagePositionedLeft.htm" />
-    <Map Name="DVDNEW35" Link="/Content/B_Features/Conditions Notes Tables/Tables.htm" />
-    <Map Name="DVDNEW36" Link="/Content/B_Features/Conditions Notes Tables/NotesExamplesBlockquotes.htm" />
-    <Map Name="DVDNEW37" Link="/Content/B_Features/Conditions Notes Tables/ConditionsNotesTables.htm" />
-    <Map Name="DVDNEW38" Link="/Content/B_Features/Conditions Notes Tables/Conditions.htm" />
-    <Map Name="DVDNEW39" Link="/Content/B_Features/Features.htm" />
-    <Map Name="DVDNEW40" Link="/Content/B_Features/Batman_TheAnimatedSeries_Vol4.htm" />
-    <Map Name="DVDNEW41" Link="/Content/B_Features/Batman_TheAnimatedSeries_Vol3.htm" />
-    <Map Name="DVDNEW42" Link="/Content/B_Features/Batman_TheAnimatedSeries_Vol2.htm" />
-    <Map Name="DVDNEW43" Link="/Content/B_Features/Batman_TheAnimatedSeries_Vol1.htm" />
-    <Map Name="DVDNEW44" Link="/Content/A_Getting Started/Whats New.htm" />
-    <Map Name="DVDNEW45" Link="/Content/A_Getting Started/Getting Started.htm" />
-    <Map Name="DVDNEW46" Link="/Content/A_Getting Started/Basic Steps.htm" />
+    <Map Name="DVDNEW22" Link="/Content/OldProjectContent/D_Other/TOC.htm" />
+    <Map Name="DVDNEW23" Link="/Content/OldProjectContent/D_Other/Search Results.htm" />
+    <Map Name="DVDNEW24" Link="/Content/OldProjectContent/C_More Information/PDF Downloads.htm" />
+    <Map Name="DVDNEW25" Link="/Content/OldProjectContent/C_More Information/More Information.htm" />
+    <Map Name="DVDNEW26" Link="/Content/OldProjectContent/C_More Information/FAQs.htm" />
+    <Map Name="DVDNEW27" Link="/Content/OldProjectContent/C_More Information/Company Information.htm" />
+    <Map Name="DVDNEW28" Link="/Content/OldProjectContent/C_More Information/Best Practices.htm" />
+    <Map Name="DVDNEW29" Link="/Content/OldProjectContent/B_Features/Links and Lists/Lists.htm" />
+    <Map Name="DVDNEW30" Link="/Content/OldProjectContent/B_Features/Links and Lists/LinksAndLists.htm" />
+    <Map Name="DVDNEW31" Link="/Content/OldProjectContent/B_Features/Links and Lists/Links.htm" />
+    <Map Name="DVDNEW32" Link="/Content/OldProjectContent/B_Features/Images/ThumbnailImage.htm" />
+    <Map Name="DVDNEW33" Link="/Content/OldProjectContent/B_Features/Images/Images.htm" />
+    <Map Name="DVDNEW34" Link="/Content/OldProjectContent/B_Features/Images/ImagePositionedLeft.htm" />
+    <Map Name="DVDNEW35" Link="/Content/OldProjectContent/B_Features/Conditions Notes Tables/Tables.htm" />
+    <Map Name="DVDNEW36" Link="/Content/OldProjectContent/B_Features/Conditions Notes Tables/NotesExamplesBlockquotes.htm" />
+    <Map Name="DVDNEW37" Link="/Content/OldProjectContent/B_Features/Conditions Notes Tables/ConditionsNotesTables.htm" />
+    <Map Name="DVDNEW38" Link="/Content/OldProjectContent/B_Features/Conditions Notes Tables/Conditions.htm" />
+    <Map Name="DVDNEW39" Link="/Content/OldProjectContent/B_Features/Features.htm" />
+    <Map Name="DVDNEW40" Link="/Content/B_DVDs/Batman_TheAnimatedSeries_Vol4.htm" />
+    <Map Name="DVDNEW41" Link="/Content/B_DVDs/Batman_TheAnimatedSeries_Vol3.htm" />
+    <Map Name="DVDNEW42" Link="/Content/B_DVDs/Batman_TheAnimatedSeries_Vol2.htm" />
+    <Map Name="DVDNEW43" Link="/Content/B_DVDs/Batman_TheAnimatedSeries_Vol1.htm" />
+    <Map Name="DVDNEW44" Link="/Content/OldProjectContent/A_Getting Started/Whats New.htm" />
+    <Map Name="DVDNEW45" Link="/Content/OldProjectContent/A_Getting Started/Getting Started.htm" />
+    <Map Name="DVDNEW46" Link="/Content/OldProjectContent/A_Getting Started/Basic Steps.htm" />
     <Map Name="DVDNEW47" Link="/Content/Home.htm" />
 </CatapultAliasFile>

@@ -543,3 +543,10 @@ img.DVDpage	/*500 px wide*/
 	height: auto;
 }
 
+img.TenInch
+{
+	border: none;
+	width: 10in;
+	height: auto;
+}
+

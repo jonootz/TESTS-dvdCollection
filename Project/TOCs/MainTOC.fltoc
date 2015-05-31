@@ -27,16 +27,16 @@
     Title="Batman_TheAnimatedSeries">
     <TocEntry
       Title="Batman_TheAnimatedSeries_Vol1"
-      Link="/Content/B_Features/Batman_TheAnimatedSeries_Vol1.htm"></TocEntry>
+      Link="/Content/B_DVDs/Batman_TheAnimatedSeries_Vol1.htm"></TocEntry>
     <TocEntry
       Title="Batman_TheAnimatedSeries_Vol3"
-      Link="/Content/B_Features/Batman_TheAnimatedSeries_Vol3.htm"></TocEntry>
+      Link="/Content/B_DVDs/Batman_TheAnimatedSeries_Vol3.htm"></TocEntry>
     <TocEntry
       Title="Batman_TheAnimatedSeries_Vol2"
-      Link="/Content/B_Features/Batman_TheAnimatedSeries_Vol2.htm" />
+      Link="/Content/B_DVDs/Batman_TheAnimatedSeries_Vol2.htm" />
     <TocEntry
       Title="Batman_TheAnimatedSeries_Vol4"
-      Link="/Content/B_Features/Batman_TheAnimatedSeries_Vol4.htm" />
+      Link="/Content/B_DVDs/Batman_TheAnimatedSeries_Vol4.htm" />
   </TocEntry>
   <TocEntry
     Title="ET_CollectorsEdition"
