@@ -550,3 +550,10 @@ img.TenInch
 	height: auto;
 }
 
+img.Done	/*Completed Entering Topics*/
+{
+	width: 10in;
+	height: auto;
+	border: solid 3px #32cd32;
+}
+
