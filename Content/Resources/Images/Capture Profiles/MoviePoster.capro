@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CaptureProfile Type="Image" ShapeTimeSpan="10000" FileName="MoviePoster{n}" Border="solid" BorderColor="#000080" BorderWidth="3" medium_print_EnableFormat="true" medium_print_ExportFormat="jpg" medium_print_DPI="250" ExportFormat="png" AutoAdjust="true">
+    <Shapes />
+</CaptureProfile>

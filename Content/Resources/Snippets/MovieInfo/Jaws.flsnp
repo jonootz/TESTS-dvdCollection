@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="588" MadCap:lastWidth="586">
+    <head>
+        <link href="../../TableStyles/Summary.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>
+            <img src="../../Images/MoviePosters/MoviePoster27.png">
+            </img>
+        </p>
+        <p>Jaws (1975)
+PG  |  124 min  |  Drama, Thriller  |  20 June 1975 (USA)</p>
+        <table style="mc-table-style: url('../../TableStyles/Summary.css');" class="TableStyle-Summary" cellspacing="0">
+            <col class="TableStyle-Summary-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-Summary-Body-Body1">
+                    <td class="TableStyle-Summary-BodyD-Column1-Body1">When a gigantic great white shark begins to menace the small island community of Amity, a police chief, a marine scientist and grizzled fisherman set out to stop it.</td>
+                </tr>
+                <tr class="TableStyle-Summary-Body-Body2">
+                    <td class="TableStyle-Summary-BodyD-Column1-Body2">Director: Steven Spielberg</td>
+                </tr>
+                <tr class="TableStyle-Summary-Body-Body3">
+                    <td class="TableStyle-Summary-BodyD-Column1-Body3">Writers: Peter Benchley (screenplay), Carl Gottlieb (screenplay), 1 more credit »</td>
+                </tr>
+                <tr class="TableStyle-Summary-Body-Body4">
+                    <td class="TableStyle-Summary-BodyA-Column1-Body4">Stars: Roy Scheider, Robert Shaw, Richard Dreyfuss | See full cast and crew »</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
