@@ -45,8 +45,8 @@ mcTableBodyStyle
 {
 	span: 1;
 	separator-style: solid;
-	separator-width: 1px;
-	separator-color: #000000;
+	separator-width: 3px;
+	separator-color: #00bfff;
 	name: Body1;
 	id: 1;
 }
@@ -59,7 +59,7 @@ mcTableBodyStyle
 	background-color: #87cefa;
 	type: Automatic;
 	separator-style: solid;
-	separator-width: 1px;
+	separator-width: 2px;
 	separator-color: #ffffff;
 }
 
@@ -70,7 +70,7 @@ mcTableBodyStyle
 	name: Body3;
 	background-color: #afeeee;
 	separator-style: solid;
-	separator-width: 1px;
+	separator-width: 2px;
 	separator-color: #ffffff;
 }
 
@@ -81,7 +81,7 @@ mcTableBodyStyle
 	name: Body4;
 	background-color: #ffdead;
 	separator-style: solid;
-	separator-width: 1px;
+	separator-width: 2px;
 	separator-color: #ffffff;
 }
 
@@ -354,8 +354,8 @@ mcTableFootStyle
 
 .TableStyle-Summary-BodyE-Column1-Body1
 {
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
+	border-bottom-width: 3px;
+	border-bottom-color: #00bfff;
 	border-bottom-style: solid;
 	border-right-width: 1px;
 	border-right-color: #ffffff;
@@ -369,8 +369,8 @@ mcTableFootStyle
 
 .TableStyle-Summary-BodyF-Column1-Body1
 {
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
+	border-bottom-width: 3px;
+	border-bottom-color: #00bfff;
 	border-bottom-style: solid;
 }
 
@@ -393,8 +393,8 @@ mcTableFootStyle
 
 .TableStyle-Summary-BodyD-Column1-Body1
 {
-	border-bottom-width: 1px;
-	border-bottom-color: #000000;
+	border-bottom-width: 3px;
+	border-bottom-color: #00bfff;
 	border-bottom-style: solid;
 }
 
@@ -463,7 +463,7 @@ mcTableFootStyle
 .TableStyle-Summary-BodyE-Column1-Body2
 {
 	background-color: #87cefa;
-	border-bottom-width: 1px;
+	border-bottom-width: 2px;
 	border-bottom-color: #ffffff;
 	border-bottom-style: solid;
 	border-right-width: 1px;
@@ -479,7 +479,7 @@ mcTableFootStyle
 .TableStyle-Summary-BodyF-Column1-Body2
 {
 	background-color: #87cefa;
-	border-bottom-width: 1px;
+	border-bottom-width: 2px;
 	border-bottom-color: #ffffff;
 	border-bottom-style: solid;
 }
@@ -505,7 +505,7 @@ mcTableFootStyle
 .TableStyle-Summary-BodyD-Column1-Body2
 {
 	background-color: #87cefa;
-	border-bottom-width: 1px;
+	border-bottom-width: 2px;
 	border-bottom-color: #ffffff;
 	border-bottom-style: solid;
 }
@@ -576,7 +576,7 @@ mcTableFootStyle
 .TableStyle-Summary-BodyE-Column1-Body3
 {
 	background-color: #afeeee;
-	border-bottom-width: 1px;
+	border-bottom-width: 2px;
 	border-bottom-color: #ffffff;
 	border-bottom-style: solid;
 	border-right-width: 1px;
@@ -592,7 +592,7 @@ mcTableFootStyle
 .TableStyle-Summary-BodyF-Column1-Body3
 {
 	background-color: #afeeee;
-	border-bottom-width: 1px;
+	border-bottom-width: 2px;
 	border-bottom-color: #ffffff;
 	border-bottom-style: solid;
 }
@@ -618,7 +618,7 @@ mcTableFootStyle
 .TableStyle-Summary-BodyD-Column1-Body3
 {
 	background-color: #afeeee;
-	border-bottom-width: 1px;
+	border-bottom-width: 2px;
 	border-bottom-color: #ffffff;
 	border-bottom-style: solid;
 }
@@ -689,7 +689,7 @@ mcTableFootStyle
 .TableStyle-Summary-BodyE-Column1-Body4
 {
 	background-color: #ffdead;
-	border-bottom-width: 1px;
+	border-bottom-width: 2px;
 	border-bottom-color: #ffffff;
 	border-bottom-style: solid;
 	border-right-width: 1px;
@@ -705,7 +705,7 @@ mcTableFootStyle
 .TableStyle-Summary-BodyF-Column1-Body4
 {
 	background-color: #ffdead;
-	border-bottom-width: 1px;
+	border-bottom-width: 2px;
 	border-bottom-color: #ffffff;
 	border-bottom-style: solid;
 }
@@ -731,7 +731,7 @@ mcTableFootStyle
 .TableStyle-Summary-BodyD-Column1-Body4
 {
 	background-color: #ffdead;
-	border-bottom-width: 1px;
+	border-bottom-width: 2px;
 	border-bottom-color: #ffffff;
 	border-bottom-style: solid;
 }
